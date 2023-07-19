@@ -1,6 +1,5 @@
 <div align="center">
       <h1>Bloggo</h1>
-      <img src="https://snipboard.io/Tdlb0a.jpg" width="80px">
      </div>
 
 
@@ -27,5 +26,3 @@ Bloggo is a simple and minimalistic blog site. Users from around the world can c
 - Step 2: open a terminal
 - Step 3: run 'npm install'
 - Step 4: run 'npm start'
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
-    
